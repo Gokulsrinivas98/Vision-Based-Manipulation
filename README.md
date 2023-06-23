@@ -1,8 +1,8 @@
 # Vision-Based-Manipulation
 This repository contains notes, reference documents, and tutorials for the following concepts. 
-- [Basics of manipulation](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW1)
-- [Grasping Basics and Grasp stability](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW2)
-- [Computer Vision](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW3)
+### [Basics of manipulation](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW1)
+### [Grasping Basics and Grasp stability](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW2)
+### [Computer Vision](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW3)
 
 <details>
 <summary>:eyes: Show Details</summary>
@@ -31,12 +31,12 @@ The compiled outputs of the project can be found in [Results](
 https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/edit/main/HW3/GSrinivasan_Hw3.pdf)    
 </details>
 
-- [Visual Servoing](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW4)
-  <details>
+### [Visual Servoing](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW4)
+
+<details>
 <summary>:eyes: Show Details</summary>
 # Visual Servoing 
 This subfolder deals with implementing visual servoing algorithm for a 2 DOF robot
-
 
 The following are performed:
 - Spawn the created object(rectangular block with 4 cylinders placed on top of it) on the ground within robot's workspace.
@@ -49,6 +49,6 @@ The following are performed:
 ## Output
 The compiled outputs of the project can be found in [Results](
 https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/blob/main/HW4/VisionBased%20Hw4.pdf)
-
+</details>
 
 </details>
