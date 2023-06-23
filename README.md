@@ -53,3 +53,5 @@ https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/blob/main/HW4/Visio
 </details>
 
 </details>
+# 💻Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,ros,matlab,linux&theme=dark&perline=17)](https://skillicons.dev)
