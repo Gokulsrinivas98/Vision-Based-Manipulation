@@ -52,6 +52,6 @@ The compiled outputs of the project can be found in [Results](
 https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/blob/main/HW4/VisionBased%20Hw4.pdf)
 </details>
 
-</details>
+
 # 💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,ros,matlab,linux&theme=dark&perline=17)](https://skillicons.dev)
