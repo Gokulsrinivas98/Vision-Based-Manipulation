@@ -35,6 +35,7 @@ https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/edit/main/HW3/GSrin
 
 <details>
 <summary>:eyes: Show Details</summary>
+    
 # Visual Servoing 
 This subfolder deals with implementing visual servoing algorithm for a 2 DOF robot
 
