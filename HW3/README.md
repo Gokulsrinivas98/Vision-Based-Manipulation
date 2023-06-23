@@ -17,4 +17,6 @@ Install python
 ```bash
  sudo apt-get install python3-opencv
 ```
-    
+## Output
+The compiled outputs of the project can be found in [Results](
+https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/edit/main/HW3/GSrinivasan_Hw3.pdf)    
