@@ -1,4 +1,12 @@
 # Vision-Based-Manipulation
+
+This course focuses on the role of visual sensing in robotic manipulation. It covers fundamental
+manipulation concepts such as grasp matrix, grasp taxonomies, and grasp stability metrics.
+Various grasp planning strategies in the literature are studied. 2D and 3D vision-based control
+algorithms are covered. Point cloud processing techniques that allow object detection,
+segmentation, and feature extraction are studied and utilized. Integrating all these aspects, the
+whole vision-based robotic manipulation pipeline is designed.
+
 This repository contains notes, reference documents, and tutorials for the following concepts. 
 ### [Basics of manipulation](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW1)
 ### [Grasping Basics and Grasp stability](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/tree/main/HW2)
